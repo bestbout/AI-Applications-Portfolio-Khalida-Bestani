@@ -1,6 +1,6 @@
 # About Me
 
- am an Applied Artificial Intelligence student at Houston Community College with a focus on Artificial Intelligence & Machine Learning, Computer Vision, Robotics & Automation, Predictive Analytics, and AI Ethics & Governance. This portfolio highlights my learning journey, technical growth, and exploration of how AI can be applied to solve real-world challenges across different industries and emerging technologies.
+I'am an Applied Artificial Intelligence student at Houston Community College with a focus on Artificial Intelligence & Machine Learning, Computer Vision, Robotics & Automation, Predictive Analytics, and AI Ethics & Governance. This portfolio highlights my learning journey, technical growth, and exploration of how AI can be applied to solve real-world challenges across different industries and emerging technologies.
 
 
 # AI-Applications-Portfolio-
