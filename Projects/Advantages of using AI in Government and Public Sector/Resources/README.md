@@ -1,4 +1,4 @@
-# Resoureces
+# References
 
 “AI Tools Helped Treasury Recover Billions in Fraud and Improper Payments.” Nextgov, 18 Oct. 2024, www.nextgov.com/artificial-intelligence/2024/10/ai-tools-helped-treasury-recover-billions-fraud-and-improper-payments/400368/.
 
